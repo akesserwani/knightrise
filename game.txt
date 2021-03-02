@@ -1,11 +1,19 @@
 
                         Choose path?
                             |
+<<<<<<< HEAD
 a                    Woods       Road 
                      |              |
 b            Approach Water       Bandits
                     |               |
 c            W/Horse ? W/o Horse   Run  ?   Fight?
+=======
+a                    Woods       Road
+                     |              |
+b            Approach Water       Bandits
+                    |               |
+c            W/Horse ? W/o Horse   Run  ?   Fight
+>>>>>>> 99498d7ced7c94883f0ceb518a17b5f8007ff888
               |           |         |        |      \
 d            |     Depends on sword   Die     If lose  If win
              |             |                   | Die        |
@@ -60,3 +68,8 @@ magical key
 horse
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 99498d7ced7c94883f0ceb518a17b5f8007ff888
