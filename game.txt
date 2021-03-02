@@ -1,0 +1,62 @@
+
+                        Choose path?
+                            |
+a                    Woods       Road 
+                     |              |
+b            Approach Water       Bandits
+                    |               |
+c            W/Horse ? W/o Horse   Run  ?   Fight?
+              |           |         |        |      \
+d            |     Depends on sword   Die     If lose  If win
+             |             |                   | Die        |
+                           |
+                    Takes days on foot
+             
+                        *Same Path*
+                            |
+                    Ride path for days
+                            |
+                        Stay at in?
+e                            |
+                    Y               N (Fatigue lowers chances)
+                    |               |
+                        Approach sleeping dragon
+                               |
+f                    Y               N
+                    |               |
+g                  Fight Dragon     Keep going
+                   |                |
+                |      |            Approach Wizards Castle on ground
+h                win   lose                  |
+                |       |               Sneak into castle (chances)
+          Tame dragon   Death               |
+i               |                   Success     Not
+                |                      |         |
+                |                      |       Death
+                        *Same Path*
+                   Fight Evil Wizard (Guess numbers, based on chance)
+                            |
+j                   Win             Die
+                     |
+                Save Princess
+                          *Game Over*
+                        
+                        
+                        
+things to buy from store:
+can only have one of:
+sword
+axe
+
+gold armor
+silver armor
+bronze armor
+
+meat
+apple
+beer
+
+magical key
+horse
+
+
