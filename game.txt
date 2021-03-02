@@ -68,8 +68,4 @@ magical key
 horse
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 99498d7ced7c94883f0ceb518a17b5f8007ff888
+Push to GitHub 
