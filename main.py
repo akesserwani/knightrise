@@ -694,7 +694,7 @@ class Scenes():
 			if prompt.lower() == "a":
 				money += turn_money
 
-				Actions.fight("Dragon", Scenes.scene_five, Scenes.scene_six_a
+				Actions.fight("Dragon", Scenes.scene_five, Scenes.scene_six_a)
 				break
 
 
